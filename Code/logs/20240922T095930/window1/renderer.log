@@ -1,0 +1,20 @@
+2024-09-22 09:59:32.352 [info] Started local extension host with pid 54768.
+2024-09-22 09:59:38.179 [info] [perf] Render performance baseline is 131ms
+2024-09-22 09:59:43.128 [error] [Extension Host] line 1:36 no viable alternative at input '<EOF>'
+2024-09-22 09:59:43.168 [error] [Extension Host] line 1:36 no viable alternative at input '<EOF>'
+2024-09-22 09:59:44.065 [error] [Extension Host] line 1:36 no viable alternative at input '<EOF>'
+2024-09-22 09:59:44.102 [error] [Extension Host] line 1:36 no viable alternative at input '<EOF>'
+2024-09-22 10:02:27.394 [error] [Extension Host] line 1:9 missing ')' at ':'
+2024-09-22 10:02:27.398 [error] [Extension Host] line 1:18 mismatched input ')' expecting {NEWLINE, ';'}
+2024-09-22 10:02:27.415 [error] [Extension Host] line 1:9 missing ')' at ':'
+2024-09-22 10:02:27.418 [error] [Extension Host] line 1:18 mismatched input ')' expecting {NEWLINE, ';'}
+2024-09-22 10:33:14.626 [error] [Extension Host] line 1:9 no viable alternative at input '<EOF>'
+2024-09-22 10:33:15.109 [error] [Extension Host] line 1:9 no viable alternative at input '<EOF>'
+2024-09-22 10:38:26.299 [error] [Extension Host] line 1:9 no viable alternative at input '<EOF>'
+2024-09-22 10:38:26.822 [error] [Extension Host] line 1:9 no viable alternative at input '<EOF>'
+2024-09-22 10:52:45.682 [info] Settings Sync: Updating due to change in sessions
+2024-09-22 10:54:23.656 [info] Settings Sync: Updated current session b331368da17442e9
+2024-09-22 10:57:10.964 [error] spawn pyenv ENOENT: Error: spawn pyenv ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

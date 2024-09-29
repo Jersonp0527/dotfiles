@@ -1,0 +1,9 @@
+2024-09-22 09:49:51.279 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-09-22 09:49:52.856 [info] [Info  - 9:49:52 AM] (32908) Server root directory: file:///home/exodus/.vscode/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-09-22 09:49:52.906 [info] [Info  - 9:49:52 AM] (32908) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-09-22 09:49:52.917 [info] [Info  - 9:49:52 AM] (32908) Starting service instance "ppi_dai_PEMBERTHYjer"
+2024-09-22 09:49:54.956 [info] [Error - 9:49:54 AM] Stopping server timed out
+2024-09-22 09:49:56.257 [info] [Info  - 9:49:56 AM] (32908) No source files found.
+2024-09-22 09:49:56.259 [info] [Info  - 9:49:56 AM] (32908) Background analysis(1) root directory: file:///home/exodus/.vscode/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-09-22 09:49:56.259 [info] [Info  - 9:49:56 AM] (32908) Background analysis(1) started
+2024-09-22 09:49:56.278 [info] [Info  - 9:49:56 AM] Server process exited successfully

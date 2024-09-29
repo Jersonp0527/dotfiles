@@ -1,0 +1,17 @@
+2024-09-22 09:49:17.976 [info] Started local extension host with pid 31438.
+2024-09-22 09:49:25.280 [info] [perf] Render performance baseline is 36ms
+2024-09-22 09:49:42.292 [info] Started local extension host with pid 32426.
+2024-09-22 09:49:45.174 [info] [perf] Render performance baseline is 92ms
+2024-09-22 09:50:33.766 [error] spawn pyenv ENOENT: Error: spawn pyenv ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-22 09:50:35.180 [error] spawn pyenv ENOENT: Error: spawn pyenv ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-09-22 09:52:08.571 [error] [Extension Host] line 1:23 no viable alternative at input '<EOF>'
+2024-09-22 09:52:08.583 [error] [Extension Host] line 1:23 no viable alternative at input '<EOF>'
+2024-09-22 09:54:19.734 [error] command 'pylance.executedClientCommand' not found: Error: command 'pylance.executedClientCommand' not found
+    at w.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1745:32144)
+    at w.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1745:32073)

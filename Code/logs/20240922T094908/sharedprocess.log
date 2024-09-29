@@ -1,0 +1,16 @@
+2024-09-22 09:49:31.829 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/exodus/.vscode/extensions/pkief.material-icon-theme-5.10.0
+2024-09-22 09:49:33.100 [info] Deleted uninstalled extension from disk james-yu.latex-workshop /home/exodus/.vscode/extensions/james-yu.latex-workshop-10.3.2
+2024-09-22 09:49:33.103 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/exodus/.vscode/extensions/ms-python.vscode-pylance-2024.9.1
+2024-09-22 09:51:57.241 [info] Getting Manifest... sobytes.flet-control-wrap
+2024-09-22 09:51:57.259 [info] Installing extension: sobytes.flet-control-wrap {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exodus/.vscode/extensions/extensions.json","path":"/home/exodus/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-22 09:51:59.933 [info] Extension signature verification result for sobytes.flet-control-wrap: UnknownError. Executed: true. Duration: 215ms.
+2024-09-22 09:52:00.250 [info] Extracted extension to file:///home/exodus/.vscode/extensions/sobytes.flet-control-wrap-0.0.2: sobytes.flet-control-wrap
+2024-09-22 09:52:00.331 [info] Renamed to /home/exodus/.vscode/extensions/sobytes.flet-control-wrap-0.0.2
+2024-09-22 09:52:00.428 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-22 09:52:00.591 [info] Extension installed successfully: sobytes.flet-control-wrap vscode-userdata:/home/exodus/.vscode/extensions/extensions.json

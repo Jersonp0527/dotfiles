@@ -1,0 +1,10 @@
+2024-09-22 11:12:02.763 [info] Uninstalling extension from the profile: oderwat.indent-rainbow@8.3.1 vscode-userdata:/home/exodus/.vscode/extensions/extensions.json
+2024-09-22 11:12:02.944 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-22 11:12:02.951 [info] Marked extension as uninstalled oderwat.indent-rainbow-8.3.1
+2024-09-22 11:12:03.470 [info] Successfully uninstalled extension from the profile oderwat.indent-rainbow@8.3.1 vscode-userdata:/home/exodus/.vscode/extensions/extensions.json

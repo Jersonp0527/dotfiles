@@ -1,0 +1,27 @@
+2024-09-22 00:17:20.865 [info] Extension host with pid 2622 started
+2024-09-22 00:17:21.093 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-22 00:17:21.221 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-22 00:17:22.098 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-22 00:17:24.117 [info] Eager extensions activated
+2024-09-22 00:17:24.137 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:17:24.244 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:17:24.395 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:17:25.141 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:18:16.464 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-22 00:18:21.944 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-22 00:18:21.959 [info] Extension host with pid 2622 exiting with code 0
+2024-09-22 00:18:22.547 [info] Extension host with pid 3007 started
+2024-09-22 00:18:22.582 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-22 00:18:22.699 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-22 00:18:22.706 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-22 00:18:22.729 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-22 00:18:22.784 [info] Eager extensions activated
+2024-09-22 00:18:22.795 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:18:22.797 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:18:22.804 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:18:22.845 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-09-22 00:18:51.061 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-22 00:18:51.436 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-22 00:18:52.029 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-22 00:20:12.735 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-22 00:20:12.802 [info] Extension host with pid 3007 exiting with code 0

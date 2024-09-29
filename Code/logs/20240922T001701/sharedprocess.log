@@ -1,0 +1,43 @@
+2024-09-22 00:17:24.503 [info] Getting Manifest... james-yu.latex-workshop
+2024-09-22 00:17:24.507 [info] Getting Manifest... ms-python.vscode-pylance
+2024-09-22 00:17:24.509 [info] Getting Manifest... pkief.material-icon-theme
+2024-09-22 00:17:24.629 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exodus/.vscode/extensions/extensions.json","path":"/home/exodus/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-22 00:17:24.636 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exodus/.vscode/extensions/extensions.json","path":"/home/exodus/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-22 00:17:25.448 [info] Installing extension: james-yu.latex-workshop {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exodus/.vscode/extensions/extensions.json","path":"/home/exodus/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-22 00:17:25.633 [info] Getting Manifest... ms-python.python
+2024-09-22 00:17:30.562 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 206ms.
+2024-09-22 00:17:30.563 [info] Extension signature verification result for james-yu.latex-workshop: UnknownError. Executed: true. Duration: 161ms.
+2024-09-22 00:17:31.685 [info] Extracted extension to file:///home/exodus/.vscode/extensions/pkief.material-icon-theme-5.11.1: pkief.material-icon-theme
+2024-09-22 00:17:31.764 [info] Renamed to /home/exodus/.vscode/extensions/pkief.material-icon-theme-5.11.1
+2024-09-22 00:17:31.844 [info] Marked extension as uninstalled pkief.material-icon-theme-5.10.0
+2024-09-22 00:17:31.865 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-22 00:17:31.871 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/exodus/.vscode/extensions/extensions.json
+2024-09-22 00:17:32.503 [info] Extracted extension to file:///home/exodus/.vscode/extensions/james-yu.latex-workshop-10.4.1: james-yu.latex-workshop
+2024-09-22 00:17:32.593 [info] Renamed to /home/exodus/.vscode/extensions/james-yu.latex-workshop-10.4.1
+2024-09-22 00:17:32.695 [info] Marked extension as uninstalled james-yu.latex-workshop-10.3.2
+2024-09-22 00:17:32.698 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-22 00:17:32.703 [info] Extension installed successfully: james-yu.latex-workshop vscode-userdata:/home/exodus/.vscode/extensions/extensions.json
+2024-09-22 00:17:34.871 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 9ms.
+2024-09-22 00:17:38.568 [info] Extracted extension to file:///home/exodus/.vscode/extensions/ms-python.vscode-pylance-2024.9.2: ms-python.vscode-pylance
+2024-09-22 00:17:38.676 [info] Renamed to /home/exodus/.vscode/extensions/ms-python.vscode-pylance-2024.9.2
+2024-09-22 00:17:38.765 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.9.1
+2024-09-22 00:17:38.767 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exodus/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-22 00:17:38.774 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/exodus/.vscode/extensions/extensions.json

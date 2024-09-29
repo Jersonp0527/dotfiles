@@ -1,0 +1,709 @@
+Debug: Getting roots
+Debug: Getting roots
+Debug: Found roots
+Debug: Start watching file for changes /home/exodus/.conda/environments.txt
+Debug: Start watching: /home/exodus/.conda with pattern environments.txt using VSCode API
+Debug: Searching for conda.
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+Debug: Searching for interpreters in posix paths locator
+Debug: Probing conda binary: conda
+Debug: Searching for pyenv environments
+Debug: Found roots
+Debug: Start watching root /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer for globs ["python","*/python","*/bin/python"]
+Debug: Start watching: /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer with pattern python using VSCode API
+Debug: Start watching: /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer with pattern */python using VSCode API
+Debug: Start watching: /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer with pattern */bin/python using VSCode API
+Debug: Shell path 'hidden', base path 'hidden'
+Debug: Shell path identified as shell 'other'
+Debug: Terminal name 'hidden' identified as shell 'other'
+Debug: [object Object]. Shell identified as other (Terminal name is hidden)
+Debug: Shell path '/sbin/fish', base path '/sbin/fish'
+Debug: Shell path identified as shell 'fish'
+Debug: Terminal shell path '/sbin/fish' identified as shell 'fish'
+Debug: [object Object]. Shell identified as fish (Terminal name is hidden)
+Debug: Shell identified as 'fish'
+Debug: Dump environment variables {
+    "CHROME_DESKTOP": "code-url-handler.desktop",
+    "COLORTERM": "truecolor",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "DISPLAY": ":0",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "GDK_BACKEND": "x11",
+    "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+    "HOME": "/home/exodus",
+    "HYPRCURSOR_SIZE": "10",
+    "HYPRLAND_CMD": "Hyprland",
+    "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+    "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+    "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+    "KITTY_PID": "1475",
+    "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+    "KITTY_WINDOW_ID": "1",
+    "LANG": "C.UTF-8",
+    "LOGNAME": "exodus",
+    "MAIL": "/var/spool/mail/exodus",
+    "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+    "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+    "MOTD_SHOWN": "pam",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "NO_AT_BRIDGE": "1",
+    "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+    "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+    "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+    "SHELL": "/bin/fish",
+    "SHLVL": "4",
+    "STARSHIP_SESSION_KEY": "3273910981255262",
+    "STARSHIP_SHELL": "fish",
+    "SYSTEMD_EXEC_PID": "547",
+    "TERM": "tmux-256color",
+    "TERMINFO": "/usr/lib/kitty/terminfo",
+    "TERM_PROGRAM": "tmux",
+    "TERM_PROGRAM_VERSION": "3.4",
+    "TMUX": "/tmp/tmux-1000/default,8305,0",
+    "TMUX_PANE": "%1",
+    "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+    "USER": "exodus",
+    "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+    "VSCODE_PID": "30775",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "XCURSOR_SIZE": "10",
+    "XDG_BACKEND": "wayland",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "hyprland",
+    "XDG_SESSION_ID": "1",
+    "XDG_SESSION_TYPE": "wayland",
+    "XDG_VTNR": "2",
+    "_": "/opt/visual-studio-code/bin/../code",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "tmux_version": "3.4",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin"
+}
+> poetry --version
+cwd: ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/out/client
+Debug: Shell Exec: poetry --version with options: {
+    "cwd": "/home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/out/client",
+    "throwOnStdErr": true,
+    "timeout": 50000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Dump environment variables {
+    "CHROME_DESKTOP": "code-url-handler.desktop",
+    "COLORTERM": "truecolor",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "DISPLAY": ":0",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "GDK_BACKEND": "x11",
+    "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+    "HOME": "/home/exodus",
+    "HYPRCURSOR_SIZE": "10",
+    "HYPRLAND_CMD": "Hyprland",
+    "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+    "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+    "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+    "KITTY_PID": "1475",
+    "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+    "KITTY_WINDOW_ID": "1",
+    "LANG": "C.UTF-8",
+    "LOGNAME": "exodus",
+    "MAIL": "/var/spool/mail/exodus",
+    "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+    "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+    "MOTD_SHOWN": "pam",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "NO_AT_BRIDGE": "1",
+    "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+    "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+    "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+    "SHELL": "/bin/fish",
+    "SHLVL": "4",
+    "STARSHIP_SESSION_KEY": "3273910981255262",
+    "STARSHIP_SHELL": "fish",
+    "SYSTEMD_EXEC_PID": "547",
+    "TERM": "tmux-256color",
+    "TERMINFO": "/usr/lib/kitty/terminfo",
+    "TERM_PROGRAM": "tmux",
+    "TERM_PROGRAM_VERSION": "3.4",
+    "TMUX": "/tmp/tmux-1000/default,8305,0",
+    "TMUX_PANE": "%1",
+    "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+    "USER": "exodus",
+    "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+    "VSCODE_PID": "30775",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "XCURSOR_SIZE": "10",
+    "XDG_BACKEND": "wayland",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "hyprland",
+    "XDG_SESSION_ID": "1",
+    "XDG_SESSION_TYPE": "wayland",
+    "XDG_VTNR": "2",
+    "_": "/opt/visual-studio-code/bin/../code",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "tmux_version": "3.4",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin"
+}
+> conda info --json
+Debug: Failed to spawn conda binary conda [Error: spawn conda ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn conda',
+  path: 'conda',
+  spawnargs: [ 'info', '--json' ]
+}
+Debug: Finished searching for custom virtual envs
+Debug: Couldn't locate the state binary.
+Debug: Searching for workspace virtual envs in: /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer
+Debug: Finished searching for poetry envs
+Debug: Attempting to resolve symbolic link: /bin/python
+Debug: Finished searching for global virtual envs
+Error: [Error: Command failed: poetry --version
+/bin/sh: line 1: poetry: command not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:338:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'poetry --version'
+}
+Debug: Time taken to run poetry --version in ms 173
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/out/client
+Debug: Storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS  retrying by resetting first
+Debug: Storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS  retrying by resetting first
+Debug: Storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS  retrying by resetting first
+Debug: Storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS  retrying by resetting first
+Debug: Storage update failed for key PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS  retrying by resetting first
+Debug: Storage update failed for key PYTHON_ENV_INFO_CACHE  retrying by resetting first
+Debug: Storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS  retrying by resetting first
+Info: Found: /bin/python --> /bin/python3.12
+Debug: Attempting to resolve symbolic link: /bin/python3
+Debug: Couldn't locate the conda binary.
+Debug: Couldn't locate the conda binary.
+Info: Found: /bin/python3 --> /bin/python3.12
+Debug: Attempting to resolve symbolic link: /bin/python3.12
+Info: Found: /bin/python3.12 --> /bin/python3.12
+Debug: Workspace Virtual Environment: [added] /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python
+Debug: Workspace Virtual Environment: [skipped] /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python3
+Debug: Workspace Virtual Environment: [skipped] /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python3.12
+Warn: Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+Warn: Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+Warn: Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+Debug: Attempting to resolve symbolic link: /sbin/python
+Debug: Finished searching for workspace virtual envs
+Info: Found: /sbin/python --> /sbin/python3.12
+Debug: Attempting to resolve symbolic link: /sbin/python3
+Info: Found: /sbin/python3 --> /sbin/python3.12
+Debug: Attempting to resolve symbolic link: /sbin/python3.12
+Info: Found: /sbin/python3.12 --> /sbin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/bin/python
+Info: Found: /usr/bin/python --> /usr/bin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/bin/python3
+> ./venv/bin/python -I ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py
+Debug: Shell Exec: /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py with options: {
+    "timeout": 15000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Info: Found: /usr/bin/python3 --> /usr/bin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/bin/python3.12
+Info: Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/sbin/python
+Info: Found: /usr/sbin/python --> /usr/sbin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/sbin/python3
+Info: Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+Debug: Attempting to resolve symbolic link: /usr/sbin/python3.12
+Info: Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+Debug: Found 4 python binaries in posix paths
+Debug: Found interpreter for >> /home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py <<: {"versionInfo":[3,12,6,"final",0],"sysPrefix":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv","sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]","is64Bit":true}
+> /bin/python -I ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py
+Debug: Shell Exec: /bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py with options: {
+    "timeout": 15000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+> /sbin/python -I ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py
+Debug: Shell Exec: /sbin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py with options: {
+    "timeout": 15000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Finished searching for interpreters in posix paths locator
+Debug: Found interpreter for >> /bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py <<: {"versionInfo":[3,12,6,"final",0],"sysPrefix":"/usr","sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]","is64Bit":true}
+> /usr/bin/python -I ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py
+Debug: Shell Exec: /usr/bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py with options: {
+    "timeout": 15000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Found interpreter for >> /sbin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py <<: {"versionInfo":[3,12,6,"final",0],"sysPrefix":"/usr","sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]","is64Bit":true}
+> /usr/sbin/python -I ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py
+Debug: Shell Exec: /usr/sbin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py with options: {
+    "timeout": 15000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code-url-handler.desktop",
+        "COLORTERM": "truecolor",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+        "DISPLAY": ":0",
+        "ELECTRON_NO_ATTACH_CONSOLE": "1",
+        "GDK_BACKEND": "x11",
+        "HL_INITIAL_WORKSPACE_TOKEN": "960bc11b-6076-47c5-a1dc-1dd8709f4608",
+        "HOME": "/home/exodus",
+        "HYPRCURSOR_SIZE": "10",
+        "HYPRLAND_CMD": "Hyprland",
+        "HYPRLAND_INSTANCE_SIGNATURE": "0f594732b063a90d44df8c5d402d658f27471dfe_1727014965_933783625",
+        "INVOCATION_ID": "2117700939ce43b2846ed490bffa0178",
+        "KITTY_INSTALLATION_DIR": "/usr/lib/kitty",
+        "KITTY_PID": "1475",
+        "KITTY_PUBLIC_KEY": "1:V}h*z`bOoePU-DQDuT@{fM6Uy>omSyJ0E%Dk&b&{",
+        "KITTY_WINDOW_ID": "1",
+        "LANG": "C.UTF-8",
+        "LOGNAME": "exodus",
+        "MAIL": "/var/spool/mail/exodus",
+        "MEMORY_PRESSURE_WATCH": "/sys/fs/cgroup/system.slice/ly.service/memory.pressure",
+        "MEMORY_PRESSURE_WRITE": "c29tZSAyMDAwMDAgMjAwMDAwMAA=",
+        "MOTD_SHOWN": "pam",
+        "MOZ_ENABLE_WAYLAND": "1",
+        "NO_AT_BRIDGE": "1",
+        "PWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "RSPOTIFY_CLIENT_ID": "b3b32d8696ba48ec8abb887d7a2b0a24",
+        "RSPOTIFY_CLIENT_SECRET": "c664d7c0afc047dca18f086de3db625c",
+        "SHELL": "/bin/fish",
+        "SHLVL": "4",
+        "STARSHIP_SESSION_KEY": "3273910981255262",
+        "STARSHIP_SHELL": "fish",
+        "SYSTEMD_EXEC_PID": "547",
+        "TERM": "tmux-256color",
+        "TERMINFO": "/usr/lib/kitty/terminfo",
+        "TERM_PROGRAM": "tmux",
+        "TERM_PROGRAM_VERSION": "3.4",
+        "TMUX": "/tmp/tmux-1000/default,8305,0",
+        "TMUX_PANE": "%1",
+        "TMUX_PLUGIN_MANAGER_PATH": "/home/exodus/.config/tmux/plugins/",
+        "USER": "exodus",
+        "VSCODE_AMD_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_CLI": "1",
+        "VSCODE_CODE_CACHE_PATH": "/home/exodus/.config/Code/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-7003d267-1.93-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"es\",\"osLocale\":\"c\",\"resolvedLanguage\":\"es\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"messagesFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/nls.messages.json\",\"corruptMarkerFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"},\"locale\":\"es\",\"availableLanguages\":{\"*\":\"es\"},\"_languagePackId\":\"eaa2fea9596bb553b799b0a62c988a50.es\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/tcf.json\",\"_cacheRoot\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es\",\"_resolvedLanguagePackCoreLocation\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40\",\"_corruptedFile\":\"/home/exodus/.config/Code/clp/eaa2fea9596bb553b799b0a62c988a50.es/corrupted.info\"}",
+        "VSCODE_PID": "30775",
+        "WAYLAND_DISPLAY": "wayland-1",
+        "XCURSOR_SIZE": "10",
+        "XDG_BACKEND": "wayland",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "hyprland",
+        "XDG_SESSION_ID": "1",
+        "XDG_SESSION_TYPE": "wayland",
+        "XDG_VTNR": "2",
+        "_": "/opt/visual-studio-code/bin/../code",
+        "_JAVA_AWT_WM_NONREPARENTING": "1",
+        "tmux_version": "3.4",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+        "PATH": "/home/exodus/.bin:/home/exodus/.local/bin:/home/exodus/Applications:/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/home/exodus/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/exodus/.local/bin:/home/exodus/.local/bin:/home/exodus/.local/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Finished with environment reducer
+Debug: Found interpreter for >> /usr/bin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py <<: {"versionInfo":[3,12,6,"final",0],"sysPrefix":"/usr","sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]","is64Bit":true}
+Debug: Found interpreter for >> /usr/sbin/python -I /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/get_output_via_markers.py /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/pythonFiles/interpreterInfo.py <<: {"versionInfo":[3,12,6,"final",0],"sysPrefix":"/usr","sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]","is64Bit":true}
+Debug: Finished with environment resolver
+Debug: Environments added to cache [{"name":"venv","location":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv","kind":"virt-venv","executable":{"filename":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python","sysPrefix":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv","ctime":1726989253285,"mtime":1726989253285},"searchLocation":{"$mid":1,"fsPath":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv","path":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv","scheme":"file"},"display":"Python 3.12.6 ('venv': venv)","version":{"major":3,"minor":12,"micro":6,"release":{"level":"final","serial":0},"sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]"},"arch":3,"distro":{"org":""},"source":[],"type":"Virtual","id":"/home/exodus/Documents/PPI/ppi_dai_PEMBERTHYjer/venv/bin/python","detailedDisplayName":"Python 3.12.6 ('venv': venv)"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/bin/python","sysPrefix":"/usr","ctime":1726335232134,"mtime":1725801536000},"display":"Python 3.12.6 64-bit","version":{"major":3,"minor":12,"micro":6,"release":{"level":"final","serial":0},"sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]"},"arch":3,"distro":{"org":""},"source":["path env var"],"id":"/bin/python","detailedDisplayName":"Python 3.12.6 64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/sbin/python","sysPrefix":"/usr","ctime":1726335232134,"mtime":1725801536000},"display":"Python 3.12.6 64-bit","version":{"major":3,"minor":12,"micro":6,"release":{"level":"final","serial":0},"sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]"},"arch":3,"distro":{"org":""},"source":["path env var"],"id":"/sbin/python","detailedDisplayName":"Python 3.12.6 64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/usr/bin/python","sysPrefix":"/usr","ctime":1726335232134,"mtime":1725801536000},"display":"Python 3.12.6 64-bit","version":{"major":3,"minor":12,"micro":6,"release":{"level":"final","serial":0},"sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]"},"arch":3,"distro":{"org":""},"source":["path env var"],"id":"/usr/bin/python","detailedDisplayName":"Python 3.12.6 64-bit"},{"name":"","location":"","kind":"global-other","executable":{"filename":"/usr/sbin/python","sysPrefix":"/usr","ctime":1726335232134,"mtime":1725801536000},"display":"Python 3.12.6 64-bit","version":{"major":3,"minor":12,"micro":6,"release":{"level":"final","serial":0},"sysVersion":"3.12.6 (main, Sep  8 2024, 13:18:56) [GCC 14.2.1 20240805]"},"arch":3,"distro":{"org":""},"source":["path env var"],"id":"/usr/sbin/python","detailedDisplayName":"Python 3.12.6 64-bit"}]
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+Debug: Cached data exists KeyPrefix=Cache_Method_Output_Poetry.getVersionCached-Args=
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/exodus/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4/out/client
+> /sbin/python -m pip list --outdated --format json
+> /sbin/python -m pip list --format json
+Debug: python -m pip list --format --json: [{"name": "argcomplete", "version": "3.4.0"}, {"name": "attrs", "version": "23.2.1.dev0"}, {"name": "beautifulsoup4", "version": "4.12.3"}, {"name": "cffi", "version": "1.16.0"}, {"name": "click", "version": "8.1.7"}, {"name": "cryptography", "version": "42.0.7"}, {"name": "cssselect", "version": "1.2.0"}, {"name": "dbus-python", "version": "1.3.2"}, {"name": "distro", "version": "1.9.0"}, {"name": "faust-cchardet", "version": "2.1.19"}, {"name": "filelock", "version": "3.13.3"}, {"name": "html5lib", "version": "1.1"}, {"name": "jaraco.classes", "version": "3.4.0"}, {"name": "jaraco.context", "version": "5.3.0"}, {"name": "jaraco.functools", "version": "4.0.2"}, {"name": "jeepney", "version": "0.8.0"}, {"name": "keyring", "version": "25.2.1"}, {"name": "latex-rubber", "version": "1.6.6"}, {"name": "Levenshtein", "version": "0.25.0"}, {"name": "lxml", "version": "5.3.0"}, {"name": "lxml_html_clean", "version": "0.2.0"}, {"name": "meson", "version": "1.5.2"}, {"name": "more-itertools", "version": "10.3.0"}, {"name": "netsnmp-python", "version": "1.0a1"}, {"name": "packaging", "version": "24.1"}, {"name": "pillow", "version": "10.4.0"}, {"name": "pip", "version": "24.2"}, {"name": "pipx", "version": "1.6.0"}, {"name": "platformdirs", "version": "4.2.2"}, {"name": "pspdfutils", "version": "3.3.5"}, {"name": "psutil", "version": "6.0.0"}, {"name": "puremagic", "version": "1.27"}, {"name": "pwquality", "version": "1.4.5"}, {"name": "pycairo", "version": "1.27.0"}, {"name": "pycparser", "version": "2.22"}, {"name": "PyGObject", "version": "3.50.0"}, {"name": "pyinotify", "version": "0.9.6"}, {"name": "pypdf", "version": "5.0.0"}, {"name": "pyxdg", "version": "0.28"}, {"name": "rapidfuzz", "version": "3.6.2"}, {"name": "SecretStorage", "version": "3.3.3"}, {"name": "six", "version": "1.16.0"}, {"name": "smbus", "version": "1.1"}, {"name": "soupsieve", "version": "2.6"}, {"name": "tqdm", "version": "4.66.5"}, {"name": "ufw", "version": "0.36.2"}, {"name": "ulauncher", "version": "5.15.7"}, {"name": "userpath", "version": "1.9.2"}, {"name": "webencodings", "version": "0.5.1"}, {"name": "websocket-client", "version": "1.8.0"}, {"name": "wheel", "version": "0.44.0"}]
+
+Debug: python -m pip list --format --json: 
