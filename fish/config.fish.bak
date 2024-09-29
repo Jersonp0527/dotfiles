@@ -1,0 +1,29 @@
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+end
+
+# Deactivate greeting
+set fish_greeting
+
+# Init Zoxide
+zoxide init fish | source
+
+# Init Oh-My-Posh
+# oh-my-posh init fish --config ~/.config/Oh-my-posh-themes/themes/avit.omp.json | source
+
+# Created by `pipx` on 2024-08-15 14:58:55
+set PATH $PATH /home/exodus/.local/bin
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if test -f /opt/miniconda3/bin/conda
+    eval /opt/miniconda3/bin/conda "shell.fish" "hook" $argv | source
+else
+    if test -f "/opt/miniconda3/etc/fish/conf.d/conda.fish"
+        . "/opt/miniconda3/etc/fish/conf.d/conda.fish"
+    else
+        set -x PATH "/opt/miniconda3/bin" $PATH
+    end
+end
+# <<< conda initialize <<<
+
