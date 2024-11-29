@@ -87,7 +87,7 @@
     "custom/logo": {
       "format": " ",
       "tooltip": false,
-      "on-click": "ulauncher"
+      "on-click": "wofi --show drun"
     },
     "custom/spotify": {
       "format": "{}",
